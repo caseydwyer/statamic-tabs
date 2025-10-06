@@ -1,5 +1,5 @@
 {
-    "name": "eminos/statamic-tabs",
+    "name": "caseydwyer/statamic-tabs",
     "type": "statamic-addon",
     "description": "A Statamic addon to be able to group fields into tabs.",
     "license": "MIT",
