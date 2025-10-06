@@ -9,7 +9,7 @@ A Statamic addon to add a Tab Fieldtype. Add tabs anywhere you have other fields
 Install this addon using composer.
 
 ```cli
-composer require eminos/statamic-tabs
+composer require caseydwyer/statamic-tabs
 ```
 
 ## Features
@@ -18,7 +18,7 @@ composer require eminos/statamic-tabs
 - Doesn't touch your other field data, ie. the data is not scoped.
 - Conditionally show/hide a tab. You add the conditions just as with any other field.
 - Optionally add an icon to the tab.
-- You can search and pick an Iconify icon (over 150 000 icons!) if you have the [Iconify Addon](https://github.com/eminos/statamic-iconify) installed.
+- You can search and pick an Iconify icon (over 150 000 icons!) if you have the [Iconify Addon](https://github.com/caseydwyer/statamic-iconify) installed.
 
 ## Usage
 

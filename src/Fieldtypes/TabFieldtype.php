@@ -1,6 +1,6 @@
 <?php
 
-namespace Eminos\StatamicTabs\Fieldtypes;
+namespace CaseyDwyer\StatamicTabs\Fieldtypes;
 
 use Statamic\Fields\Fieldtype;
 

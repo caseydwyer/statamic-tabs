@@ -1,9 +1,9 @@
 <?php
 
-namespace Eminos\StatamicTabs;
+namespace CaseyDwyer\StatamicTabs;
 
 use Statamic\Providers\AddonServiceProvider;
-use Eminos\StatamicTabs\Fieldtypes\TabFieldtype;
+use CaseyDwyer\StatamicTabs\Fieldtypes\TabFieldtype;
  
 class ServiceProvider extends AddonServiceProvider
 {
